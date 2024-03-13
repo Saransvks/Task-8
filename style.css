@@ -1,0 +1,12 @@
+body{
+    background-color:white;
+    color:black;
+}
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    margin:250px auto;
+    border:3px solid black;
+};
